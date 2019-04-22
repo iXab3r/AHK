@@ -41,7 +41,6 @@ SetUpGDIP(iWidth=-1, iHeight=-1) {
 
 	; Get a handle to this window we have created in order to update it later
 	hwnd1 := WinExist()
-	MsgBox, 48, OverlayHwnd, HWND %hwnd1%
 	return
 }
 
