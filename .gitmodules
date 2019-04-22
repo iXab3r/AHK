@@ -1,0 +1,4 @@
+[submodule "GDIp"]
+	path = GDIp
+	url = https://github.com/tariqporter/Gdip.git
+	branch = master
