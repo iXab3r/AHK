@@ -2,7 +2,7 @@
 #SingleInstance force
 #NoEnv 
 #Persistent ; Stay open in background
-SendMode Input 
+SendMode Play 
 StringCaseSense, On ; Match strings with case.
 Menu, tray, Tip, Exile Tools
 #MaxThreadsPerHotkey 2
